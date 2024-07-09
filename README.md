@@ -32,9 +32,10 @@ O projeto incorpora várias funcionalidades chave como:
 
 O Ignite Timer é mais do que apenas um projeto prático; ele é uma demonstração de como ferramentas modernas podem ser integradas para construir soluções eficazes e elegantes em desenvolvimento web. É ideal para quem quer entender como aplicar conceitos avançados de React e TypeScript em um cenário real.
 
----
 
 Explore o projeto [Ignite Timer](https://github.com/lfqcamargo/Estudos/tree/main/React/ignite-timer) para mais detalhes sobre a implementação e contribuições.
+
+---
 
 ## API sem Biblioteca
 
@@ -57,7 +58,8 @@ O projeto incorpora várias funcionalidades chave como:
 
 A "API sem Biblioteca" é mais do que apenas um projeto prático; ela é uma demonstração de como os fundamentos do Node.js podem ser usados para construir uma API eficiente e elegante com o mínimo de abstração. Este projeto também é ideal para quem deseja entender o funcionamento interno de APIs, aprimorar suas habilidades em JavaScript e Node.js em um contexto prático, e explorar o sistema de streaming do JavaScript para o tratamento eficaz de dados assíncronos e em buffer.
 
----
 
 Explore o projeto [API sem Biblioteca](https://github.com/lfqcamargo/Estudos/tree/main/Node/api-sem-biblioteca) para mais detalhes sobre a implementação e contribuições.
+
+---
 
