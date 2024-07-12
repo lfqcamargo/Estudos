@@ -51,7 +51,7 @@ Explore o projeto [Ignite Timer](https://github.com/lfqcamargo/Estudos/tree/main
 O projeto incorpora várias funcionalidades chave como:
 - Manipulação de requisições HTTP básicas (GET, POST, PUT, DELETE).
 - Roteamento simples de requisições para os handlers apropriados.
-- Implementações básicas de operações CRUD diretamente com objetos em memória.
+- Implementações básicas de operações CRUD com um banco de dados em arquivo JSON.
 - Gerenciamento de streams de dados, explorando como o Node.js lida com grandes volumes de dados de maneira eficiente e assíncrona.
 
 ### Objetivo do Projeto
