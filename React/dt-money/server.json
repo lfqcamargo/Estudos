@@ -31,6 +31,14 @@
       "type": "outcome",
       "createdAt": "2024-07-20T01:01:59.964Z",
       "id": 4
+    },
+    {
+      "description": "Hora Extra",
+      "price": 500,
+      "category": "Trampo",
+      "type": "income",
+      "createdAt": "2024-07-20T13:17:58.714Z",
+      "id": 5
     }
   ]
 }
