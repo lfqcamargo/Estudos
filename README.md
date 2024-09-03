@@ -109,7 +109,7 @@ Explore o projeto [API Academia](https://github.com/lfqcamargo/Estudos/tree/main
 
 ---
 
-## Forum com DDD
+## API Forum com DDD
 
 [Forum com DDD](https://github.com/lfqcamargo/Estudos/tree/main/Node/forum-com-DDD) é um projeto desenvolvido com foco no Design Dirigido por Domínio (DDD - Domain-Driven Design). Este projeto tem como objetivo aplicar os conceitos de DDD na construção de um sistema de fórum, onde são utilizadas práticas avançadas de design de software para garantir que a solução seja escalável, modular e de fácil manutenção.
 
@@ -137,7 +137,7 @@ Explore o projeto [Forum com DDD](https://github.com/lfqcamargo/Estudos/tree/mai
 
 ---
 
-## Forum com NestJS
+## API Forum com NestJS
 
 [Forum com NestJS](https://github.com/lfqcamargo/Estudos/tree/main/Node/forum-nestjs) é um projeto desenvolvido utilizando o framework NestJS, que é construído sobre o Node.js e oferece uma arquitetura modular e escalável para o desenvolvimento de aplicações server-side. Este projeto foi criado para demonstrar a construção de um sistema de fórum, aplicando as melhores práticas de desenvolvimento de software com NestJS.
 
