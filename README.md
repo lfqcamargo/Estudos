@@ -37,6 +37,87 @@ Explore o projeto [Ignite Timer](https://github.com/lfqcamargo/Estudos/tree/main
 
 ---
 
+## Conhecendo Next
+
+[Conhecendo Next](https://github.com/lfqcamargo/Estudos/tree/main/React/conhecendo-next) é um projeto desenvolvido para explorar as funcionalidades do Next.js, um framework React que possibilita a criação de aplicações web com renderização híbrida (SSR e SSG) e geração de sites estáticos. Este projeto foi criado para demonstrar como o Next.js pode ser utilizado para melhorar o desempenho e a experiência do usuário em aplicações React.
+
+### Principais Tecnologias Utilizadas
+
+- **Next.js**: Framework React utilizado para criar aplicações web com renderização do lado do servidor (SSR) e geração de sites estáticos (SSG).
+- **React**: Biblioteca JavaScript para construção de interfaces de usuário, utilizada como base do Next.js.
+- **TypeScript**: Usado para adicionar tipagem estática ao código, aumentando a robustez e facilitando a manutenção do projeto.
+
+### Funcionalidades do Projeto
+
+O "Conhecendo Next" inclui várias funcionalidades importantes para um sistema web moderno, tais como:
+- **Renderização Híbrida**: Implementação de páginas utilizando Server-Side Rendering (SSR) e Static Site Generation (SSG) para otimizar o desempenho e o SEO.
+- **Rotas Dinâmicas**: Criação de rotas dinâmicas e estáticas no Next.js, demonstrando como gerar conteúdo com base em parâmetros de rota.
+- **Otimização de Imagens**: Uso do componente de imagem do Next.js para carregamento otimizado de imagens, melhorando o tempo de carregamento das páginas.
+- **Deploy Simplificado**: Configuração do projeto para deploy em plataformas de hospedagem compatíveis com Next.js, como Vercel.
+
+### Objetivo do Projeto
+
+O "Conhecendo Next" tem como objetivo demonstrar as capacidades e a flexibilidade do Next.js na construção de aplicações web modernas e escaláveis. Este projeto é ideal para desenvolvedores que desejam aprender ou aperfeiçoar suas habilidades com Next.js e React, oferecendo uma base sólida para a criação de sistemas complexos com uma arquitetura bem definida e modular.
+
+Explore o projeto [Conhecendo Next](https://github.com/lfqcamargo/Estudos/tree/main/React/conhecendo-next) para mais detalhes sobre a implementação e contribuições.
+
+---
+
+## DT Money
+
+[DT Money](https://github.com/lfqcamargo/Estudos/tree/main/React/dt-money) é um projeto desenvolvido para explorar a criação de uma aplicação de controle financeiro pessoal utilizando React, TypeScript e Vite. Este projeto foi criado para demonstrar como construir uma interface amigável e eficiente para o gerenciamento de receitas e despesas, proporcionando ao usuário um controle detalhado sobre suas finanças.
+
+### Principais Tecnologias Utilizadas
+
+- **React**: Biblioteca JavaScript para construção de interfaces de usuário, utilizada para criar a interface interativa do aplicativo.
+- **TypeScript**: Usado para adicionar tipagem estática ao código, aumentando a robustez e facilitando a manutenção do projeto.
+- **Vite**: Ferramenta de build e desenvolvimento que proporciona um ambiente rápido e otimizado para aplicações React.
+
+### Funcionalidades do Projeto
+
+O "DT Money" inclui várias funcionalidades importantes para o gerenciamento financeiro, tais como:
+- **Cadastro de Transações**: Permite ao usuário cadastrar receitas e despesas, especificando detalhes como valor, categoria e data.
+- **Listagem de Transações**: Exibe uma lista das transações cadastradas, permitindo a visualização rápida das entradas e saídas.
+- **Resumo de Transações**: Mostra um resumo das finanças, com o saldo total, receitas e despesas acumuladas.
+- **Filtros por Data e Categoria**: Implementação de filtros que permitem ao usuário visualizar transações por período específico ou categoria.
+- **Interface Responsiva**: Layout adaptável para diferentes tamanhos de tela, garantindo uma boa experiência de uso em dispositivos móveis e desktops.
+
+### Objetivo do Projeto
+
+O "DT Money" tem como objetivo demonstrar as capacidades e a flexibilidade do React na construção de aplicações web voltadas para o gerenciamento financeiro pessoal. Este projeto é ideal para desenvolvedores que desejam aprender ou aperfeiçoar suas habilidades com React, TypeScript e Vite, oferecendo uma base sólida para a criação de sistemas financeiros com uma interface amigável e intuitiva.
+
+Explore o projeto [DT Money](https://github.com/lfqcamargo/Estudos/tree/main/React/dt-money) para mais detalhes sobre a implementação e contribuições.
+
+---
+
+## PizzaShop
+
+[PizzaShop](https://github.com/lfqcamargo/Estudos/tree/main/React/pizzashop) é um projeto desenvolvido para explorar a criação de uma aplicação completa de e-commerce utilizando React, TypeScript e outras tecnologias modernas. Este projeto foi criado para demonstrar como construir uma plataforma de vendas online para uma pizzaria, com funcionalidades que vão desde o cadastro de produtos até a finalização de pedidos.
+
+### Principais Tecnologias Utilizadas
+
+- **React**: Biblioteca JavaScript para construção de interfaces de usuário, utilizada para criar a interface interativa do aplicativo.
+- **TypeScript**: Usado para adicionar tipagem estática ao código, aumentando a robustez e facilitando a manutenção do projeto.
+- **Tailwind CSS**: Framework de CSS utilizado para estilizar a aplicação, proporcionando um design moderno e responsivo.
+- **Vite**: Ferramenta de build e desenvolvimento que proporciona um ambiente rápido e otimizado para aplicações React.
+
+### Funcionalidades do Projeto
+
+O "PizzaShop" inclui várias funcionalidades importantes para um sistema de e-commerce, tais como:
+- **Cadastro de Produtos**: Interface para o cadastro de novos produtos, permitindo a gestão do catálogo de pizzas disponíveis.
+- **Autenticação de Usuários**: Implementação de login e cadastro de usuários para garantir a segurança e personalização das compras.
+- **Carrinho de Compras**: Funcionalidade que permite aos usuários adicionar produtos ao carrinho, visualizar e editar a lista de itens antes da finalização do pedido.
+- **Finalização de Pedidos**: Processo completo de checkout, incluindo cálculo de total, aplicação de descontos e confirmação do pedido.
+- **Integração com API Backend**: Comunicação com uma API para gerenciamento de dados, autenticação e processamento de pedidos.
+
+### Objetivo do Projeto
+
+O "PizzaShop" tem como objetivo demonstrar as capacidades e a flexibilidade do React na construção de aplicações de e-commerce modernas e escaláveis. Este projeto é ideal para desenvolvedores que desejam aprender ou aperfeiçoar suas habilidades com React, TypeScript e Tailwind CSS, oferecendo uma base sólida para a criação de sistemas complexos com uma interface amigável e intuitiva.
+
+Explore o projeto [PizzaShop](https://github.com/lfqcamargo/Estudos/tree/main/React/pizzashop) para mais detalhes sobre a implementação e contribuições.
+
+---
+
 ## API sem Biblioteca
 
 [API sem Biblioteca](https://github.com/lfqcamargo/Estudos/tree/main/Node/api-sem-biblioteca) é um projeto desenvolvido para explorar as funcionalidades básicas do Node.js na criação de uma API HTTP sem usar frameworks ou bibliotecas externas. Este projeto serve como um excelente exemplo de como entender profundamente o tratamento de requisições HTTP, o roteamento interno e o sistema de streaming do JavaScript.
