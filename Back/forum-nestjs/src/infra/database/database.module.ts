@@ -74,4 +74,4 @@ import { CacheModule } from '../cache/cache.module'
     NotificationsRepository,
   ],
 })
-export class DatabaseModule {}
+export class DatabaseModule { }
