@@ -246,3 +246,28 @@ O "Forum com NestJS" tem como objetivo demonstrar as capacidades e a flexibilida
 Explore o projeto [Forum com NestJS](https://github.com/lfqcamargo/Estudos/tree/main/Node/forum-nestjs) para mais detalhes sobre a implementação e contribuições.
 
 ---
+
+
+# Ignite Call Fullstack
+
+[Ignite Call Fullstack](https://github.com/lfqcamargo/Estudos/tree/main/Front/ignite-call%20fullstack) é um projeto desenvolvido para explorar a construção de uma aplicação completa de agendamento de chamadas, utilizando tecnologias modernas como **Next.js**, **Prisma** e **TypeScript**.
+
+## Principais Tecnologias Utilizadas
+
+- **Next.js**: Utilizado para renderização do lado do servidor (SSR) e geração de sites estáticos.
+- **Prisma**: ORM para manipulação eficiente do banco de dados.
+- **TypeScript**: Linguagem com tipagem estática para maior segurança e manutenção do código.
+- **Tailwind CSS**: Framework CSS para estilização rápida e responsiva.
+- **Google OAuth**: Implementação da autenticação de usuários via Google.
+- **Node.js**: Utilizado no backend para criar a API de agendamento.
+
+## Funcionalidades do Projeto
+
+- **Agendamento de Chamadas**: Ferramenta completa para agendamento de reuniões e chamadas.
+- **Autenticação com Google**: Implementação de OAuth 2.0 para autenticação segura dos usuários.
+- **Integração com APIs Externas**: Serviços para facilitar a comunicação com terceiros.
+- **Notificações**: Sistema automatizado para lembrar os usuários sobre as chamadas.
+
+## Objetivo do Projeto
+
+O [Ignite Call Fullstack](https://github.com/lfqcamargo/Estudos/tree/main/Front/ignite-call%20fullstack) foi desenvolvido como parte de um estudo para integrar autenticação com o Google e construir uma aplicação fullstack moderna utilizando **Next.js**, **Prisma** e **TypeScript**. É ideal para quem deseja aprender e aplicar conceitos de SSR, OAuth e integração de APIs.

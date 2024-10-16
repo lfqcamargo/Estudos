@@ -1,38 +1,49 @@
-<p align="center">
-  <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Rocketseat&message=Education&color=8257e5&labelColor=202024" alt="Rocketseat Project" />
-  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257e5&labelColor=202024" alt="License"></a>
-</p>
+# Ignite Call Fullstack
 
+O projeto "Ignite Call Fullstack" foi desenvolvido como parte do repositório de estudos para explorar a criação de uma aplicação de agendamento de chamadas, utilizando Next.js, Prisma e TypeScript. O objetivo deste projeto é oferecer uma interface intuitiva e funcional para o agendamento de reuniões e chamadas, com integração à autenticação do Google.
 
-## 💻 Projeto
+## Tecnologias Utilizadas
 
-06-ignite-call
+- **Next.js**: Framework React com suporte a renderização do lado do servidor (SSR) e geração de sites estáticos.
+- **Prisma**: ORM utilizado para interagir com o banco de dados de maneira eficiente e segura.
+- **TypeScript**: Superconjunto do JavaScript que adiciona tipagem estática, proporcionando maior segurança e manutenção do código.
+- **Tailwind CSS**: Framework CSS para estilização rápida e responsiva.
+- **Google OAuth**: Sistema de autenticação de usuários utilizando OAuth 2.0 via Google.
 
-## 📝 Licença
+## Funcionalidades
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto inclui as seguintes funcionalidades principais:
+- **Agendamento de Chamadas**: Permite aos usuários agendar reuniões e chamadas, especificando detalhes como data, hora e duração.
+- **Autenticação com Google**: Integração com OAuth 2.0 para autenticação de usuários via contas do Google.
+- **Gerenciamento de Usuários**: Sistema para autenticar e gerenciar diferentes usuários na plataforma.
+- **Notificações Automáticas**: Sistema de notificações que avisa os usuários sobre suas reuniões e chamadas agendadas.
+- **Interface Responsiva**: Layout adaptável para diferentes tamanhos de tela, garantindo uma boa experiência de uso em dispositivos móveis e desktops.
 
----
+## Como Usar
 
-<p align="center">
-  Feito com 💜 by Rocketseat
-</p>
+Para começar a usar este projeto, siga os passos abaixo:
 
+1. Clone o repositório:
+   ```
+   git clone https://github.com/lfqcamargo/Estudos/tree/main/Front/ignite-call%20fullstack
+   cd ignite-call-fullstack
+   ```
 
-<!--START_SECTION:footer-->
+2. Instale as dependências:
+   ```
+   npm install
+   ```
 
-<br />
-<br />
+3. Configure o ambiente (adicione suas credenciais de OAuth no arquivo `.env`):
+   ```
+   GOOGLE_CLIENT_ID=<sua_google_client_id>
+   GOOGLE_CLIENT_SECRET=<seu_google_client_secret>
+   ```
 
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
+4. Execute o servidor de desenvolvimento:
+   ```
+   npm run dev
+   ```
 
-<!--END_SECTION:footer-->
-
+5. Acesse a aplicação em `http://localhost:3000` para começar a agendar suas reuniões com o Ignite Call Fullstack.
