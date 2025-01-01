@@ -2,6 +2,60 @@
 
 Bem-vindo ao meu repositório de estudos backend, um espaço onde exploro e aprofundo meu conhecimento em uma variedade de tecnologias de desenvolvimento backend. Este repositório é um compêndio de projetos, experimentos e aprendizados que refletem minha jornada contínua como desenvolvedor.
 
+---
+
+## Python
+
+### Flask Conhecendo
+
+[Flask Conhecendo](https://github.com/lfqcamargo/Estudos/tree/main/Back/flask-conhecendo) é um projeto básico criado durante um curso de Python, com o objetivo de explorar os fundamentos do framework Flask e implementar operações simples em uma aplicação web.
+
+#### Principais Tecnologias Utilizadas
+
+- **Python**: Linguagem principal para desenvolvimento da aplicação.
+- **Flask**: Framework minimalista utilizado para criação de rotas e manipulação de requisições HTTP.
+- **Pytest**: Ferramenta usada para escrever e executar testes automatizados.
+
+#### Funcionalidades do Projeto
+
+- Criação de rotas básicas para gerenciamento de tarefas.
+- Implementação de testes automatizados com Pytest para garantir a funcionalidade do sistema.
+
+#### Objetivo do Projeto
+
+O projeto **Flask Conhecendo** foi desenvolvido para apresentar os conceitos iniciais do Flask e auxiliar no aprendizado de desenvolvimento web com Python, abordando desde a criação de rotas até a realização de testes.
+
+Explore o projeto [Flask Conhecendo](https://github.com/lfqcamargo/Estudos/tree/main/Back/flask-conhecendo) para mais detalhes sobre a implementação e contribuições.
+
+---
+
+### Flask Simple Auth
+
+[Flask Simple Auth](https://github.com/lfqcamargo/Estudos/tree/main/Back/flask-simple-auth) é um projeto que implementa autenticação básica de usuários em uma aplicação Flask, demonstrando conceitos essenciais de segurança e gerenciamento de sessões.
+
+#### Principais Tecnologias Utilizadas
+
+- **Python**: Linguagem principal para desenvolvimento do backend.
+- **Flask**: Framework para desenvolvimento web.
+- **Flask-Login**: Extensão usada para gerenciar autenticação e sessões de usuários.
+- **SQLite**: Banco de dados para armazenar informações de usuários.
+- **Bcrypt**: Biblioteca para criptografia segura de senhas.
+
+#### Funcionalidades do Projeto
+
+- Cadastro e autenticação de usuários.
+- Gerenciamento de sessões com Flask-Login.
+- Criptografia de senhas utilizando Bcrypt.
+- Proteção de rotas restritas a usuários autenticados.
+
+#### Objetivo do Projeto
+
+O projeto **Flask Simple Auth** tem como objetivo explorar os fundamentos da autenticação em aplicações web com Flask, oferecendo um ponto de partida para implementar sistemas seguros e robustos.
+
+Explore o projeto [Flask Simple Auth](https://github.com/lfqcamargo/Estudos/tree/main/Back/flask-simple-auth) para mais detalhes sobre a implementação e contribuições.
+
+---
+
 ## Javascript / Typescript
 
 ### API sem Biblioteca
@@ -132,5 +186,3 @@ O "Forum com NestJS" tem como objetivo demonstrar as capacidades e a flexibilida
 Explore o projeto [Forum com NestJS](https://github.com/lfqcamargo/Estudos/tree/main/Node/forum-nestjs) para mais detalhes sobre a implementação e contribuições.
 
 ---
-
-## Python
