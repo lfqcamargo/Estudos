@@ -1,6 +1,6 @@
-# Repositório de Estudos
+# Frontend
 
-Bem-vindo ao meu repositório de estudos, um espaço onde exploro e aprofundo meu conhecimento em uma variedade de tecnologias de desenvolvimento web e programação. Este repositório é um compêndio de projetos, experimentos e aprendizados que refletem minha jornada contínua como desenvolvedor.
+Bem-vindo ao meu repositório de estudos frontend, um espaço onde exploro e aprofundo meu conhecimento em uma variedade de tecnologias de desenvolvimento frontend. Este repositório é um compêndio de projetos, experimentos e aprendizados que refletem minha jornada contínua como desenvolvedor.
 
 ### Tecnologias Exploradas
 
