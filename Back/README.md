@@ -56,6 +56,33 @@ Explore o projeto [Flask Simple Auth](https://github.com/lfqcamargo/Estudos/tree
 
 ---
 
+## Flask Pagamentos com Socket
+
+[Flask Pagamentos com Socket](https://github.com/lfqcamargo/Estudos/tree/main/Back/flask-pagamentos-socket) é um projeto que implementa um sistema de gerenciamento de pagamentos utilizando Flask e comunicação em tempo real via WebSockets. Ele demonstra como integrar funcionalidades de transações e notificações em tempo real em uma aplicação web.
+
+### Principais Tecnologias Utilizadas
+
+- **Python**: Linguagem principal para desenvolvimento do backend.
+- **Flask**: Framework para criação de aplicações web.
+- **Flask-SocketIO**: Extensão para adicionar suporte a WebSockets e comunicação em tempo real.
+- **SQLite**: Banco de dados para armazenar informações de pagamentos e usuários.
+- **HTML, CSS e JavaScript**: Para a construção da interface do usuário.
+
+### Funcionalidades do Projeto
+
+- **Processamento de Pagamentos**: Registro e simulação de transações de pagamento.
+- **Notificações em Tempo Real**: Uso de WebSockets para atualizar o status das transações instantaneamente.
+- **Gerenciamento de Dados**: Armazenamento seguro de informações de pagamentos no banco de dados.
+- **Estrutura Modular**: Separação clara de responsabilidades entre backend, templates, e arquivos estáticos.
+
+### Objetivo do Projeto
+
+O projeto **Flask Pagamentos com Socket** tem como objetivo demonstrar como construir um sistema de pagamentos com comunicação em tempo real em Flask, abordando conceitos fundamentais para sistemas dinâmicos e responsivos.
+
+Explore o projeto [Flask Pagamentos com Socket](https://github.com/lfqcamargo/Estudos/tree/main/Back/flask-pagamentos-socket) para mais detalhes sobre a implementação e contribuições.
+
+---
+
 ## Javascript / Typescript
 
 ### API sem Biblioteca
